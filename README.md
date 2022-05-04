@@ -1,2 +1,2 @@
-# thirty-starters
-Improve HTML, CSS and JS skills by building thirty mini projects.
+# Thirty Starters
+Crawling out of tutorial hell by building 30 mini project.
